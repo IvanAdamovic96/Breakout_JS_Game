@@ -1,0 +1,12 @@
+.container{
+    background-image: url("images/3.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: grid;
+    place-content: center;
+}
+
+canvas {
+    margin-top: 160px;
+    background: #eee;
+}
