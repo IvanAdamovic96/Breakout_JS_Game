@@ -1,12 +1,13 @@
 .container{
-    background-image: url("images/3.png");
+    /* background-image: url("images/3.png");
     background-repeat: no-repeat;
-    background-size: cover;
+    background-size: cover; */
+    background-color: rgb(194, 255, 225);
     display: grid;
     place-content: center;
 }
 
 canvas {
     margin-top: 160px;
-    background: #eee;
+    background: #1f1f1f;
 }
